@@ -1,5 +1,7 @@
 # Pixels to Predictions — Submission
 
+**Report (PDF):** [https://github.com/nidhish1/dl-finals-2026/blob/main/docs/final_report.pdf](https://github.com/nidhish1/dl-finals-2026/blob/main/docs/final_report.pdf)
+
 **Competition:** [Pixels to Predictions — DL Vision Challenge](https://www.kaggle.com/competitions/pixels-to-predictions) (visual question answering with multiple-choice answers).
 
 Training, inference, and submission generation are implemented in a single Kaggle notebook: `pixels-to-predictions.ipynb`. The notebook is fully reproducible on Kaggle [here](https://www.kaggle.com/code/nidhish1010/pixels-to-predictions/notebook?scriptVersionId=317753258).

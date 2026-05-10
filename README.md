@@ -6,16 +6,16 @@
 
 Training, inference, and submission generation are implemented in `pixels-to-predictions.ipynb`.
 
-> **The notebook is fully reproducible on Kaggle** — [open the pinned notebook here](https://www.kaggle.com/code/nidhish1010/pixels-to-predictions/notebook?scriptVersionId=317753258).
+> **The notebook is fully reproducible on Kaggle** — [open the pinned notebook here](https://www.kaggle.com/code/dheerajp1728/notebookb7b9ba9957/input?scriptVersionId=317955612).
 
 ## Outputs
 
-Artifacts from the pinned run (LoRA adapters, bundled model export, and submission CSVs) are available on the notebook **Output** tab for script version `317753258`:
+Artifacts from the pinned run (LoRA adapters, full model export zip, and submission CSVs) are on the notebook **Output** tab for script version `317955612`:
 
-- **LoRA adapters:** [https://www.kaggle.com/code/nidhish1010/pixels-to-predictions/output?scriptVersionId=317753258](https://www.kaggle.com/code/nidhish1010/pixels-to-predictions/output?scriptVersionId=317753258)
-- **Model bundle (zip / working outputs):** [https://www.kaggle.com/code/nidhish1010/pixels-to-predictions/output?scriptVersionId=317753258](https://www.kaggle.com/code/nidhish1010/pixels-to-predictions/output?scriptVersionId=317753258)
+- **LoRA adapters:** [https://www.kaggle.com/code/dheerajp1728/notebookb7b9ba9957/output?scriptVersionId=317955612](https://www.kaggle.com/code/dheerajp1728/notebookb7b9ba9957/output?scriptVersionId=317955612)
+- **Full model (bundle / zip):** [https://www.kaggle.com/code/dheerajp1728/notebookb7b9ba9957/output?scriptVersionId=317955612](https://www.kaggle.com/code/dheerajp1728/notebookb7b9ba9957/output?scriptVersionId=317955612)
 
-Both links open the same output page; download the files you need from that commit’s output list.
+Both links open the same output page; pick the adapter folder or full model archive from that commit’s file list.
 
 ## Repository layout
 
